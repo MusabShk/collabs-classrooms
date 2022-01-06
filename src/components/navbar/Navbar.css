@@ -1,0 +1,9 @@
+.nav-link.bottom {
+  border-bottom: 5px solid white;
+  /* display: inline-block; */
+  /* line-height: 5; */
+}
+
+.icon {
+  color: white;
+}
