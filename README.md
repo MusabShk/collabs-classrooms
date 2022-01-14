@@ -106,6 +106,6 @@ Students can submit their assignment work (upload files)
 ## Mobile responsive
 
 <p align="center">
-  <img src="app-sceenshots/m1.gif" />  
+  <img src="app-sceenshots/m1.gif" width="350" height="600" />  
 </p>
 
