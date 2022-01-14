@@ -81,3 +81,26 @@ Students can submit their assignment work (upload files)
 ### Faculty after assesing the assignments get clear statistics which shows students performance
 
 ![](app-screenshots/k.png)
+
+
+## Manager platform walkthrough
+
+![](app-screenshots/1.gif)
+
+
+## Dean platform walkthrough
+
+![](app-screenshots/2.gif)
+
+
+## Faculty platform walkthrough
+
+
+![](app-screenshots/3.gif)
+
+
+## Student platform walkthrough
+
+![](app-screenshots/4.gif)
+
+
