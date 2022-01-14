@@ -95,7 +95,6 @@ Students can submit their assignment work (upload files)
 
 ## Faculty platform walkthrough
 
-
 ![](app-screenshots/3.gif)
 
 
@@ -103,4 +102,12 @@ Students can submit their assignment work (upload files)
 
 ![](app-screenshots/4.gif)
 
+
+## Mobile responsive
+
+<p align="center">
+  <img src="app-sceenshots/m1.gif" />
+  <img src="app-sceenshots/m2.gif" />
+  <img src="app-sceenshots/m3.gif" />
+</p>
 
