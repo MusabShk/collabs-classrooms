@@ -106,8 +106,8 @@ Students can submit their assignment work (upload files)
 ## Mobile responsive
 
 <p align="center">
-  <img src="app-screenshots/m1.gif" width="300" height="500" />  
-  <img src="app-screenshots/m2.gif" width="300" height="500" />
-  <img src="app-screenshots/m3.gif" width="300" height="500" />
+  <img src="app-screenshots/m1.gif" width="250" height="400" />  
+  <img src="app-screenshots/m2.gif" width="250" height="400" />
+  <img src="app-screenshots/m3.gif" width="250" height="400" />
 </p>
 
