@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# Collabs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Webapp build using Reactjs and firebase </br>
+A very comprehensive app which was build to create a collaborative environment between the people of an educational organization.
 
-## Available Scripts
+This app provides a wide range of features for every member of the organization which makes it a great platform for everyone.
 
-In the project directory, you can run:
+User roles in this app:
+### 1. Manager : 
+The person who is the owner of this application and the sole founder of collabs. Any organization who wants to be a part of collabs needs to request access from the Manager.
 
-### `npm start`
+### 2. Dean :
+Organization head, who deligates different roles and adds people onto the platform so that they can login and use the app
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 3. Faculty :
+Subject teacher who can add students and track their performance based on work (assignments) assigned to them.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 4. Student :
+A learner who manages his work given by the faculty and track his/her performance.
 
-### `npm test`
+### 5. Guest :
+Any person who wants a live walkthrough of this app can choose guest login from the homepage of this app.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Each of the above mentioned roles have multiple aspects to interact with which makes this platform unique and one of a kind.
 
-### `npm run build`
+### Manager dashboard 
+This snapshot shows the organizations which are currently using this app.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![](app-screenshots/a.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Add Event announcements 
+Add event section (on dean dashboard) displaying a calendar which adds to a user friendly design
 
-### `npm run eject`
+![](app-screenshots/b.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Create a new branch
+Dean can create multiple branches for his organization with the help of dynamic field inputs in forms
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![](app-screenshots/c.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Left navigation bar 
+Offcanvas which helps in navigating between pages
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![](app-screenshots/d.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Subject announcements 
+Private announcements which belong to a particular subject and its people
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![](app-screenshots/e.png)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Assignment dashboard 
+submission progress is shown in graphical format
 
-### Making a Progressive Web App
+![](app-screenshots/f.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### Student invites
+Add new students to the organization (from faculty dashboard) with the help of dynamic field inputs in forms
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![](app-screenshots/g.png)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Faculty can add attachments so that students can refer to them
 
-### `npm run build` fails to minify
+![](app-screenshots/h.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Assignment dashboard
+Students can submit their assignment work (upload files)
+
+![](app-screenshots/i.png)
+
+![](app-screenshots/j.png)
+
+
+### Faculty after assesing the assignments get clear statistics which shows students performance
+
+![](app-screenshots/k.png)
