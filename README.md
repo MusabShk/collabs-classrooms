@@ -23,6 +23,11 @@ Any person who wants a live walkthrough of this app can choose guest login from 
 
 Each of the above mentioned roles have multiple aspects to interact with which makes this platform unique and one of a kind.
 
+### App landing page
+
+![](app-screenshots/landing.png)
+
+
 ### Manager dashboard 
 This snapshot shows the organizations which are currently using this app.
 
